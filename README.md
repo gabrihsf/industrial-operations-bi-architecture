@@ -144,9 +144,9 @@ This module supports workforce optimization and accountability.
 ## 4️⃣ Consumption vs Efficiency — Cost-Performance Correlation
 
 **GIF:**  
-`gifs/04_efficiency.gif`
+`gifs/04_consumption_and_efficiency.gif`
 
-![Consumption vs Efficiency](gifs/04_efficiency.gif)
+![Consumption vs Efficiency](gifs/04_consumption_and_efficiency.gif)
 
 This page correlates production output with material consumption.
 
